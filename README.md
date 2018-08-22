@@ -1,9 +1,9 @@
-# spring-security-saml2-sample
-Spring Security SAML2 sample application with ResourceBackedMetadataProvider for OKTA
+# okta-poc-with-spring-security
+OKTA Proof Of Concept with Spring Security framework using ResourceBackedMetadataProvider for OKTA
 
 # README #
 
-This is a SAML2 sample web project using Spring Security framework.
+This is a POC project for OKTA SAML2 based Single Sign On using Spring Security framework.
 It is tested with an OKTA developer sandbox as an IdP and Tomcat 8.5.23 as a web container, in Spring Tool Suite (STS) release 3.9.1.
 
 ### What is this repository for? ###
