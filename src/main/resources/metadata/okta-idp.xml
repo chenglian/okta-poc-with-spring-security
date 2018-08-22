@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" entityID="http://www.okta.com/exkcz8omu0qHpBqHK0h7"><md:IDPSSODescriptor WantAuthnRequestsSigned="false" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIIDpDCCAoygAwIBAgIGAV+UdLPrMA0GCSqGSIb3DQEBCwUAMIGSMQswCQYDVQQGEwJVUzETMBEG
+A1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzENMAsGA1UECgwET2t0YTEU
+MBIGA1UECwwLU1NPUHJvdmlkZXIxEzARBgNVBAMMCmRldi04MjAxNTYxHDAaBgkqhkiG9w0BCQEW
+DWluZm9Ab2t0YS5jb20wHhcNMTcxMTA3MDMwODU3WhcNMjcxMTA3MDMwOTU2WjCBkjELMAkGA1UE
+BhMCVVMxEzARBgNVBAgMCkNhbGlmb3JuaWExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xDTALBgNV
+BAoMBE9rdGExFDASBgNVBAsMC1NTT1Byb3ZpZGVyMRMwEQYDVQQDDApkZXYtODIwMTU2MRwwGgYJ
+KoZIhvcNAQkBFg1pbmZvQG9rdGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+kPx0/ygcKnxfoSwB+gRQcmIDOyh+P2xAfXblAi8ZhQWvYbDNKsVro6z2AGgBG0VXGpXrZAiahDIi
+4WC19jY+uKmP8TFx5AGuvSZGQflhVvpy2aMNJ0h60ZF64Lye4XnPBzKwx7dZx+SnvgViGnPB8bPS
+7etfOP5fpJZSnRvJfQfCcjsUiLMr7k7GtyUqm2NSeGkOm0EP+nRyIObDSJxUZPlCvTyeHSXF+uPV
+F0Y37AY6DQUVrN3+wA2euwbU1VMAKSU/avFySi3sUy/2rvRdpGOWNS6Vu+RjtslEs4oXJy5Vy/Gg
+7edrdBnpBq/JQfLYoXaVeQHBXeH0QbDQ4hFubwIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQABb24g
+pzY4spIRHoz3RKZJ96JRPA6w9g+t7HTjPNiwFzMt+upJYQ4kUq601OzEQTZQfzxB98do2eV7zIBt
+H0VhJMSlfIJydLfFgt5zeuxrJDimqmyuNwKFo62KdIRt8xP6Ec0ZXUmXVmli1z57fQ9PWV/0+0XU
+IIZmiC1Qek2rDm7t2BDu0MYjxvEHsWTcBdoNz1DUuFpoXTjDtn16gXEAdaZ7/5Nb7ppiAAqOHim8
+M9ESQa+7Gc9t0roqcm3SuNnnaWVbOKn6tWQ3VenDameu/2reBpc8Y4J9uOIc6gY78e8aSx07O05N
+6t6ILi7srTVkjfk2R0qwV+YJR7JchOX1</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://dev-820156.oktapreview.com/app/pocbychenglian_springsaml2_1/exkcz8omu0qHpBqHK0h7/slo/saml"/><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://dev-820156.oktapreview.com/app/pocbychenglian_springsaml2_1/exkcz8omu0qHpBqHK0h7/slo/saml"/><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://dev-820156.oktapreview.com/app/pocbychenglian_springsaml2_1/exkcz8omu0qHpBqHK0h7/sso/saml"/><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://dev-820156.oktapreview.com/app/pocbychenglian_springsaml2_1/exkcz8omu0qHpBqHK0h7/sso/saml"/></md:IDPSSODescriptor></md:EntityDescriptor>

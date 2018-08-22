@@ -1,0 +1,1 @@
+Sample tomcat 8.5.23 config file server.xml is provided with the same jks used for SSL/TLS.
